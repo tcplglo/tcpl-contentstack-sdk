@@ -1,0 +1,1113 @@
+{
+  "limit": 30,
+  "offset": 0,
+  "count": 29,
+  "total": 29,
+  "results": [
+    {
+      "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.716Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.716Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.716Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "kitchen",
+      "name": {
+        "en-GB": "Kitchen",
+        "en-US": "Kitchen",
+        "de-DE": "Küche"
+      },
+      "slug": {
+        "en-GB": "kitchen",
+        "en-US": "kitchen",
+        "de-DE": "kitchen"
+      },
+      "ancestors": [],
+      "orderHint": "0.3",
+      "assets": []
+    },
+    {
+      "id": "16ff2a92-771a-43f7-8377-a9972af6bce5",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.700Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.700Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.700Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "new-arrivals",
+      "name": {
+        "en-GB": "New Arrivals",
+        "en-US": "New Arrivals",
+        "de-DE": "Neuheiten"
+      },
+      "slug": {
+        "en-GB": "new-arrivals",
+        "en-US": "new-arrivals",
+        "de-DE": "ganz-neu"
+      },
+      "ancestors": [],
+      "orderHint": "0.4",
+      "assets": []
+    },
+    {
+      "id": "be4ff920-2038-4152-82e9-3484f1440b76",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.702Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.702Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.702Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "furniture",
+      "name": {
+        "en-GB": "Furniture",
+        "en-US": "Furniture",
+        "de-DE": "Möbel"
+      },
+      "slug": {
+        "en-GB": "furniture",
+        "en-US": "furniture",
+        "de-DE": "furniture"
+      },
+      "ancestors": [],
+      "orderHint": "0.2",
+      "assets": []
+    },
+    {
+      "id": "7769b787-822e-4af4-a950-b26ab8f2e189",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.722Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.722Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.722Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "home-decor",
+      "name": {
+        "en-GB": "Home Decor",
+        "en-US": "Home Decor",
+        "de-DE": "Dekoration"
+      },
+      "slug": {
+        "en-GB": "home-decor",
+        "en-US": "home-decor",
+        "de-DE": "home-decor"
+      },
+      "ancestors": [],
+      "orderHint": "0.1",
+      "assets": []
+    },
+    {
+      "id": "492611ec-1f79-4680-af7b-afb37c348ea5",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.976Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.976Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.976Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "collections",
+      "name": {
+        "en-GB": "Collections",
+        "en-US": "Collections",
+        "de-DE": "Sonderkollektionen"
+      },
+      "slug": {
+        "en-GB": "furniture-collections",
+        "en-US": "furniture-collections",
+        "de-DE": "collections"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+      },
+      "orderHint": ".7",
+      "assets": []
+    },
+    {
+      "id": "64442f05-2a30-4d2b-8f0f-9137c849ab0e",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.983Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.983Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.983Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "room-decor",
+      "name": {
+        "en-GB": "Room Decor",
+        "en-US": "Room Decor",
+        "de-DE": "Zimmerdekoration"
+      },
+      "slug": {
+        "en-GB": "room-decor",
+        "en-US": "room-decor",
+        "de-DE": "zimmerdekoration"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+      },
+      "orderHint": ".8",
+      "assets": []
+    },
+    {
+      "id": "62a7e597-d357-469e-9311-320fcbb62652",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.992Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.992Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.992Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bedding",
+      "name": {
+        "en-GB": "Bedding",
+        "en-US": "Bedding",
+        "de-DE": "Bettwäsche"
+      },
+      "slug": {
+        "en-GB": "bedding",
+        "en-US": "bedding",
+        "de-DE": "bettwsche"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+      },
+      "orderHint": ".5",
+      "assets": []
+    },
+    {
+      "id": "bfbf869e-f70b-445d-90a9-9a51c16579a0",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:06.997Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:06.997Z",
+      "lastModifiedAt": "2024-12-09T09:06:06.997Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "serveware",
+      "name": {
+        "en-GB": "Collections",
+        "en-US": "Kitchen Collections",
+        "de-DE": "Alles zum Servieren"
+      },
+      "slug": {
+        "en-GB": "kitchen-collections",
+        "en-US": "kitchen-collections",
+        "de-DE": "serveware"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+      },
+      "orderHint": ".86",
+      "assets": []
+    },
+    {
+      "id": "10bbbb76-b59a-4d48-9a62-2538255a2939",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.000Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.000Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.000Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bar-and-glassware",
+      "name": {
+        "en-GB": "Bar and Glassware",
+        "en-US": "Bar and Glassware",
+        "de-DE": "Gläser und Barzubehör"
+      },
+      "slug": {
+        "en-GB": "bar-and-glassware",
+        "en-US": "bar-and-glassware",
+        "de-DE": "bar-and-glassware"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+      },
+      "orderHint": ".82",
+      "assets": []
+    },
+    {
+      "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.006Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.006Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.006Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "dinnerware",
+      "name": {
+        "en-GB": "Serving and Tableware",
+        "en-US": "Dinnerware",
+        "de-DE": "Geschirr"
+      },
+      "slug": {
+        "en-GB": "serving-and-tableware",
+        "en-US": "serving-and-tableware",
+        "de-DE": "dinnerware"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+      },
+      "orderHint": ".75",
+      "assets": []
+    },
+    {
+      "id": "11316234-1341-4cd1-a15c-29a11b27ac16",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.008Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.008Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.008Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "living-room-furniture",
+      "name": {
+        "en-GB": "Living Room Furniture",
+        "en-US": "Living Room Furniture",
+        "de-DE": "Wohnzimmer"
+      },
+      "slug": {
+        "en-GB": "living-room-furniture",
+        "en-US": "living-room-furniture",
+        "de-DE": "living-room-furniture"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+      },
+      "orderHint": ".9",
+      "assets": []
+    },
+    {
+      "id": "57063bf4-ee5f-4980-996f-56ed70ab7f5b",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.010Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.010Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.010Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bedroom-furniture",
+      "name": {
+        "en-GB": "Bedroom Furniture",
+        "en-US": "Bedroom Furniture",
+        "de-DE": "Schlafzimmer"
+      },
+      "slug": {
+        "en-GB": "bedroom-furniture",
+        "en-US": "bedroom-furniture",
+        "de-DE": "bedroom-furniture"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+      },
+      "orderHint": ".9",
+      "assets": []
+    },
+    {
+      "id": "4d0dc1b4-9c29-43d7-ab06-168a55ca32fc",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.118Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.118Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.118Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "home-accents",
+      "name": {
+        "en-GB": "Home Accents",
+        "en-US": "Home Accents",
+        "de-DE": "Accessoires"
+      },
+      "slug": {
+        "en-GB": "home-accents",
+        "en-US": "home-accents",
+        "de-DE": "home-akzente"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+        },
+        {
+          "typeId": "category",
+          "id": "64442f05-2a30-4d2b-8f0f-9137c849ab0e"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "64442f05-2a30-4d2b-8f0f-9137c849ab0e"
+      },
+      "orderHint": ".5",
+      "assets": []
+    },
+    {
+      "id": "2ec884cd-a39a-4918-bd18-78dc6e46ad0d",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.130Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.130Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.130Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bakeware",
+      "name": {
+        "en-GB": "Bakeware",
+        "en-US": "Bakeware",
+        "de-DE": "Backutensilien"
+      },
+      "slug": {
+        "en-GB": "bakeware",
+        "en-US": "bakeware",
+        "de-DE": "bakeware"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+      },
+      "orderHint": ".42",
+      "assets": []
+    },
+    {
+      "id": "1a52e158-eeda-422b-9e9c-aebd89c1b99d",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.133Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.133Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.133Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "storage--tables",
+      "name": {
+        "en-GB": "Storage & Tables",
+        "en-US": "Dressers",
+        "de-DE": "Kommoden"
+      },
+      "slug": {
+        "en-GB": "storage-and-tables",
+        "en-US": "storage-and-tables",
+        "de-DE": "dressers"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "57063bf4-ee5f-4980-996f-56ed70ab7f5b"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "57063bf4-ee5f-4980-996f-56ed70ab7f5b"
+      },
+      "orderHint": ".1",
+      "assets": []
+    },
+    {
+      "id": "27ca629d-ca9c-405e-80b0-aa2c083ad48f",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.144Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.144Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.144Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "tables",
+      "name": {
+        "en-GB": "Tables",
+        "en-US": "Tables",
+        "de-DE": "Tische"
+      },
+      "slug": {
+        "en-GB": "living-room-tables",
+        "en-US": "living-room-tables",
+        "de-DE": "coffee-tables"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+      },
+      "orderHint": ".25",
+      "assets": []
+    },
+    {
+      "id": "cb5440ec-a999-40c5-8ced-b7e8b36d4106",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.147Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.147Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.147Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "beds",
+      "name": {
+        "en-GB": "Beds",
+        "en-US": "Beds",
+        "de-DE": "Betten"
+      },
+      "slug": {
+        "en-GB": "beds",
+        "en-US": "beds",
+        "de-DE": "beds"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "57063bf4-ee5f-4980-996f-56ed70ab7f5b"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "57063bf4-ee5f-4980-996f-56ed70ab7f5b"
+      },
+      "orderHint": ".4",
+      "assets": []
+    },
+    {
+      "id": "b64dad4c-de65-4974-ab53-15b0b4ae3045",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.151Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.151Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.151Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bowls",
+      "name": {
+        "en-GB": "Bowls",
+        "en-US": "Bowls",
+        "de-DE": "Schalen"
+      },
+      "slug": {
+        "en-GB": "bowls",
+        "en-US": "bowls",
+        "de-DE": "bowls"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+      },
+      "orderHint": ".56",
+      "assets": []
+    },
+    {
+      "id": "564e8282-d6dd-43cb-9b43-7c9378e25ff2",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.158Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.158Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.158Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "armchairs",
+      "name": {
+        "en-GB": "Armchairs",
+        "en-US": "Chairs",
+        "de-DE": "Stühle"
+      },
+      "slug": {
+        "en-GB": "armchairs",
+        "en-US": "armchairs",
+        "de-DE": "chairs"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+      },
+      "orderHint": ".3",
+      "assets": []
+    },
+    {
+      "id": "8b59b4af-6eab-4361-9d62-afa97640a79f",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.161Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.161Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.161Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "the-modernist",
+      "name": {
+        "en-GB": "The Modernist",
+        "en-US": "The Modernist",
+        "de-DE": "The Modernist"
+      },
+      "slug": {
+        "en-GB": "the-modernist",
+        "en-US": "the-modernist",
+        "de-DE": "the-modernist"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+      },
+      "orderHint": ".0035",
+      "assets": []
+    },
+    {
+      "id": "64572f22-ea9d-45b8-b790-98e0e499f7ae",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.163Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.163Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.163Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "rugs",
+      "name": {
+        "en-GB": "Rugs",
+        "en-US": "Rugs",
+        "de-DE": "Teppiche"
+      },
+      "slug": {
+        "en-GB": "rugs",
+        "en-US": "rugs",
+        "de-DE": "teppiche"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "7769b787-822e-4af4-a950-b26ab8f2e189"
+        },
+        {
+          "typeId": "category",
+          "id": "64442f05-2a30-4d2b-8f0f-9137c849ab0e"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "64442f05-2a30-4d2b-8f0f-9137c849ab0e"
+      },
+      "orderHint": ".4",
+      "assets": []
+    },
+    {
+      "id": "8d94e899-5eef-4f63-9e16-8d5c169b1eeb",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.165Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.165Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.165Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "serving-platters",
+      "name": {
+        "en-GB": "Serving Platters",
+        "en-US": "Serving Platters",
+        "de-DE": "Servierplatten"
+      },
+      "slug": {
+        "en-GB": "serving-platters",
+        "en-US": "serving-platters",
+        "de-DE": "serving-platters"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "bfbf869e-f70b-445d-90a9-9a51c16579a0"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "bfbf869e-f70b-445d-90a9-9a51c16579a0"
+      },
+      "orderHint": ".0004",
+      "assets": []
+    },
+    {
+      "id": "6b828764-fd67-401c-aa50-e5b273bdc029",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.166Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.166Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.166Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "glassware",
+      "name": {
+        "en-GB": "Glassware",
+        "en-US": "Glassware",
+        "de-DE": "Gläser"
+      },
+      "slug": {
+        "en-GB": "glassware",
+        "en-US": "glassware",
+        "de-DE": "glassware"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "10bbbb76-b59a-4d48-9a62-2538255a2939"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "10bbbb76-b59a-4d48-9a62-2538255a2939"
+      },
+      "orderHint": ".23",
+      "assets": []
+    },
+    {
+      "id": "013dec53-d433-4c43-b72e-51be1bf62391",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.172Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.172Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.172Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "bar-accessories",
+      "name": {
+        "en-GB": "Bar Accessories",
+        "en-US": "Bar Accessories",
+        "de-DE": "Barzubehör"
+      },
+      "slug": {
+        "en-GB": "bar-accessories",
+        "en-US": "bar-accessories",
+        "de-DE": "bar-accessories"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "10bbbb76-b59a-4d48-9a62-2538255a2939"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "10bbbb76-b59a-4d48-9a62-2538255a2939"
+      },
+      "orderHint": ".36",
+      "assets": []
+    },
+    {
+      "id": "241baefd-0cfd-413b-9ab6-9db78b63f119",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.169Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.169Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.169Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "the-traditionalist",
+      "name": {
+        "en-GB": "The Traditionalist",
+        "en-US": "The Traditionalist",
+        "de-DE": "The Traditionalist"
+      },
+      "slug": {
+        "en-GB": "the-traditionalist",
+        "en-US": "the-traditionalist",
+        "de-DE": "the-traditionalist"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+      },
+      "orderHint": "0.0033",
+      "assets": []
+    },
+    {
+      "id": "25c6dff3-da65-47b3-b698-ee636a98af0b",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.178Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.178Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.178Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "sofas",
+      "name": {
+        "en-GB": "Sofas",
+        "en-US": "Sofas",
+        "de-DE": "Sofas"
+      },
+      "slug": {
+        "en-GB": "sofas",
+        "en-US": "sofas",
+        "de-DE": "sofas"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "11316234-1341-4cd1-a15c-29a11b27ac16"
+      },
+      "orderHint": ".3",
+      "assets": []
+    },
+    {
+      "id": "9d44b894-31ba-45b7-90a2-aaf32aae9bea",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.191Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.191Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.191Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "plates",
+      "name": {
+        "en-GB": "Plates",
+        "en-US": "Plates",
+        "de-DE": "Platten"
+      },
+      "slug": {
+        "en-GB": "plates",
+        "en-US": "plates",
+        "de-DE": "plates"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "e80e4926-fcb3-4cac-9274-13ac7fcf2f7d"
+      },
+      "orderHint": ".82",
+      "assets": []
+    },
+    {
+      "id": "3d8b9115-75ef-4dca-98d0-ce3948699a49",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.261Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.261Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.261Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "the-minimalist",
+      "name": {
+        "en-GB": "The Minimalist",
+        "en-US": "The Minimalist",
+        "de-DE": "The Minimalist"
+      },
+      "slug": {
+        "en-GB": "the-minimalist",
+        "en-US": "the-minimalist",
+        "de-DE": "the-minimalist"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "be4ff920-2038-4152-82e9-3484f1440b76"
+        },
+        {
+          "typeId": "category",
+          "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "492611ec-1f79-4680-af7b-afb37c348ea5"
+      },
+      "orderHint": ".003",
+      "assets": []
+    },
+    {
+      "id": "0b409e9c-e4ff-4e05-a620-0d27b8e0dddb",
+      "version": 1,
+      "versionModifiedAt": "2024-12-09T09:06:07.669Z",
+      "lastMessageSequenceNumber": 1,
+      "createdAt": "2024-12-09T09:06:07.669Z",
+      "lastModifiedAt": "2024-12-09T09:06:07.669Z",
+      "lastModifiedBy": {
+        "isPlatformClient": true
+      },
+      "createdBy": {
+        "isPlatformClient": true
+      },
+      "key": "cheese-trays",
+      "name": {
+        "en-GB": "Cheese Trays",
+        "en-US": "Cheese Trays",
+        "de-DE": "Käseplatten"
+      },
+      "slug": {
+        "en-GB": "cheese-trays",
+        "en-US": "cheese-trays",
+        "de-DE": "cheese-trays"
+      },
+      "ancestors": [
+        {
+          "typeId": "category",
+          "id": "723ab7c6-d4eb-4422-bc66-bb929cacaf98"
+        },
+        {
+          "typeId": "category",
+          "id": "bfbf869e-f70b-445d-90a9-9a51c16579a0"
+        }
+      ],
+      "parent": {
+        "typeId": "category",
+        "id": "bfbf869e-f70b-445d-90a9-9a51c16579a0"
+      },
+      "orderHint": ".12",
+      "assets": []
+    }
+  ]
+}
