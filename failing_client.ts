@@ -1,4 +1,4 @@
-import * as contentstack from "@contentstack/management";
+import contentstack from "@contentstack/management";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -9,14 +9,13 @@ export const Client = () => {
   console.log(key, token);
 
   // This Line is causing an error..  Can't tell why
-  let contentstackClient = contentstack.client({
-    authorization: token,
-  });
+  let contentstackClient = contentstack.client();
 
   contentstackClient
     .stack({ api_key: key, management_token: token })
+    .contentType("article")
     .fetch()
-    .then((stack) => {
-      console.log(stack);
+    .then((response) => {
+      console.log(response);
     });
 };
